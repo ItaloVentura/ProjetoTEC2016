@@ -15,6 +15,11 @@ R001 -   Manter Serviço(CRUD)
 	Requesito que permite o cadastro/modificação/pesquisa/exclusão dos serviços que cada prestador de serviço irá oferecer na plataforma.
 	Responsável pela sua criação: Anderson Rodrigo Cassiano dos Santos
 	Pacote UML - Ainda não foi feito.
+	
+R002 -  Manter Clientes(CRUD)
+	Requesito que permite o cadastro, edição, pesquisa e exclusão dos clientes.
+	Responsável pela sua criação: Ítalo A. De Pieri Ventura
+	Pacote UML - Ainda não foi feito.
 
 R004 - Opções de pesquisa e formas de apresentação dos resultados
 
