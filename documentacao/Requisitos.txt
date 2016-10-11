@@ -16,6 +16,11 @@ R001 -   Manter Serviço(CRUD)
 	Responsável pela sua criação: Anderson Rodrigo Cassiano dos Santos
 	Pacote UML - Ainda não foi feito.
 
+R002 -   Manter Clientes(CRUD)
+	Requesito que permite o inserção, edição, exclusão e pesquisa dos clientes.
+	Responsável pela sua criação: Ítalo A. De Pieri Ventura
+	Pacote UML - Ainda não foi feito.
+
 R004 - Opções de pesquisa e formas de apresentação dos resultados
 
 	Um um campo p/ a pesquisa,neste campo podem ser pesquisados;nome da empresa desejada,tipo de serviço desejado, o CNPJ da 		empresa.O resultado da pesquisa deve ser uma lista,nesta lista deve aparecer o nome da empresa,CNPJ,uma pequena lista de 		serviços oferecidos e uma foto(opcional) 
